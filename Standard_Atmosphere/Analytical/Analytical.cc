@@ -2,7 +2,7 @@
 
 
 double Atmosphere_Analytical::getTemperature(double geometric_altitude){
-    // TODO
+    // Please work
     return 0.0;
 }
 
